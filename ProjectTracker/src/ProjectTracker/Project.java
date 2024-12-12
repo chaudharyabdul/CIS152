@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
 /**
- * @author [Abdul Chaudhary]
+ * @author Abdul Chaudhary
  * 
  * Represents a student project with enhanced tracking capabilities
  */
